@@ -5903,8 +5903,16 @@ blockquote span{
 
 
 
+/* License Number */
 
-
+.license {
+  position: fixed;
+  /* color: #fff; */
+   top: 40px;  /*Adjust this value to set the distance from the top  */
+  left: 125px; Adjust this value to set the distance from the left
+  /* left: 10px; */
+  padding: 10px;
+}
 
 
 /* Icon Edits */
