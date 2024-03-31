@@ -7855,9 +7855,11 @@ blockquote span {
   position: fixed;
   top: 40px;
   /*Adjust this value to set the distance from the top  */
-  left: 125px;
+  left: 145px;
   /*Adjust this value to set the distance from the left*/
   padding: 10px;
+  font-weight: bold;
+  font-size: small;
 }
 
 
