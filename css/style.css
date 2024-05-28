@@ -7847,6 +7847,19 @@ blockquote span {
 }
 
 
+/* Image Styles */
+
+
+.image-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image-row img {
+  max-width: 47%;
+  height: auto;
+}
+
 
 
 /* License Number */
